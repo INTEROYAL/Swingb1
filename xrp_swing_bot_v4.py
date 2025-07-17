@@ -11,7 +11,7 @@ from datetime import datetime
 API_KEY = "faQmax9O8dmYoA2Q+2GlAuW6NtrbFiG+WvopkXpLYX0V8oqs2STHTaBn"
 API_SECRET = "bTfZT+vKY/I6pu8poxqGn4Vg52IDC59CkLvnElFN92Dr017mPgWvbwwkH0xdSTswjbz0werg2ld6GPr3huyh0A=="
 PAIR = 'XRPUSD'
-TRADE_AMOUNT_USD = 150
+TRADE_AMOUNT_USD = 195
 RSI_BUY = 45
 RSI_SELL = 60
 STOP_LOSS_PCT = 4
