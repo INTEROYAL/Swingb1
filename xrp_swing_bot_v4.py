@@ -8,8 +8,8 @@ import os
 from datetime import datetime
 
 # === CONFIGURATION ===
-API_KEY = "faQmax9O8dmYoA2Q+2GlAuW6NtrbFiG+WvopkXpLYX0V8oqs2STHTaBn"
-API_SECRET = "bTfZT+vKY/I6pu8poxqGn4Vg52IDC59CkLvnElFN92Dr017mPgWvbwwkH0xdSTswjbz0werg2ld6GPr3huyh0A=="
+API_KEY = ""
+API_SECRET = ""
 PAIR = 'XRPUSD'
 TRADE_AMOUNT_USD = 195
 RSI_BUY = 45
